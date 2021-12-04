@@ -1,0 +1,23 @@
+{
+  "name": "miniature_eureka",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Develop/public/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cerihaf/miniature_eureka.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cerihaf/miniature_eureka/issues"
+  },
+  "homepage": "https://github.com/cerihaf/miniature_eureka#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
